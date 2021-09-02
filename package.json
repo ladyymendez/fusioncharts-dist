@@ -74,16 +74,14 @@
   ],
   "license": "http://www.fusioncharts.com/buy/",
   "main": "fusioncharts.js",
-  "name": "fusioncharts",
+  "name": "fusioncharts-mexico",
   "releaseDate": "2020-12-10",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fusioncharts/fusioncharts-dist.git"
   },
   "scripts": {
-    "postpublish": "./scripts/build/postpublish",
-    "prepublishOnly": "./scripts/build/prepublish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "3.16.0"
+  "version": "3.16.2"
 }
